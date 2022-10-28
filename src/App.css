@@ -6,6 +6,21 @@ font-size: xx-large;
 color:darkgreen;
 text-align: center;
 }
+
+.footer {
+color:gray;
+text-align: center;
+page-break-after: always;
+
+}
+
+.home {
+  font-weight: light;
+  font-size: medium;
+  color:rgb(46, 149, 149);
+  text-align: center;
+}
+
 .notFound {
   font-weight: bolder;
   font-size: 250px;
@@ -16,10 +31,5 @@ text-align: center;
 
 }
 
-.footer {
-color:gray;
-text-align: center;
-
-}
 
 

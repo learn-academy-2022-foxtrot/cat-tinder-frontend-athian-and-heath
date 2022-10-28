@@ -4,7 +4,13 @@ const Footer = () => {
 
     return (
         <div className="footer">
-    <>animalFAQ, order catnip here, </>
+
+    
+     <p>
+    
+     <a href="https://mountainroseherbs.com/catnip">Buy Organic CatNip</a>
+    </p>
+    
     </div>
     
     )

@@ -4,7 +4,11 @@ const Header = () => {
 
     return (
         <>
-          <div className="header" > Find your purrfect match here </div> 
+          <div className="header" > 
+          
+          <>Find your purrfect match here</> 
+          
+          </div> 
           <br/>
         </>
     )
