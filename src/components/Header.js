@@ -6,7 +6,7 @@ const Header = () => {
         <>
           <div className="header" > 
           
-          <>Find your purrfect match here</> 
+          <>Find your purrrfect match here</> 
           
           </div> 
           <br/>
