@@ -16,8 +16,8 @@ import { Routes, Route } from 'react-router-dom'
 
 const App = () => {
 
-  const [cats, setCat] = useState(mockCats)
-  console.log(cats)
+  const [cats, setCats] = useState(mockCats)
+
 
 
 
